@@ -1,0 +1,22 @@
+{
+  "name": "node-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index,js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NukerPakorn/node-proj.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Nuker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NukerPakorn/node-proj/issues"
+  },
+  "homepage": "https://github.com/NukerPakorn/node-proj#readme"
+}
